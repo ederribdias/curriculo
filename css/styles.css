@@ -89,6 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 abbr[title],
@@ -9996,6 +9997,8 @@ body {
     padding-left: 17rem;
   }
 }
+
+
 h1,
 h2,
 h3,
@@ -10088,6 +10091,10 @@ p.lead {
   background-color: #0b486b;
 }
 
+h5{
+  margin-top:1.5rem;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
@@ -10095,7 +10102,7 @@ p.lead {
 section.resume-section {
   display: flex;
   align-items: center;
-  padding-left: rem;
+  padding-left: 1rem;
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
